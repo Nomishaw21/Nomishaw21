@@ -7,7 +7,7 @@
 
 ### Random stats of how bad I am:
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nomishaw&count_private=true&border_radius=8&icon_color=f44336&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nomishaw21&count_private=true&border_radius=8&icon_color=f44336&show_icons=true&theme=dark" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomishaw21&layout=compact&border_radius=8&theme=dark" />
